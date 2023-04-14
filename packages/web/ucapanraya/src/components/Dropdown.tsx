@@ -134,7 +134,7 @@ const Dropdown: FC<DropdownProps> = ({ generateUcapan }) => {
                         😎
                       </span>
                     )}
-                    Boring
+                    Santai
                   </button>
                 )}
               </Menu.Item>
