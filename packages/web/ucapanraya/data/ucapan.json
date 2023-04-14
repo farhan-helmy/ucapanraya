@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "nada": "happy",
+            "ucapan": "Yeayyy! Selamat Hari Raya Aidilfitri! Dah sampai masa kita nak makan ketupat, rendang, lemang, dan semua hidangan sedap raya. Mari kita lupakan sejenak masalah kita dan nikmati momen bahagia ini bersama keluarga tercinta. Maaf Zahir dan Batin ya? Jangan lupa berseronok-seronok dan kebahagiaan sentiasa mengiringi kita sepanjang perayaan ini. Raya oh Raya, betapa kami menyayangimu!"
+        },
+        {
+            "id": 2,
+            "nada": "sad",
+            "ucapan": "Dalam suasana yang sunyi ini, izinkan saya mengucapkan Selamat Hari Raya Aidilfitri. Meskipun di hati saya terasa sedih kerana tiada lagi kehangatan raya seperti dulu. Saya merindui saat-saat bersama keluarga yang telah pergi ke rahmatullah dan mereka yang jauh di mata, dekat di hati. Maafkan segala salah silap dan khilaf yang telah saya lakukan. Semoga kita semua akan terus dikurniakan kesihatan, kekuatan dan keberkatan. Sama-sama kita doakan agar suasana raya ini akan kembali meriah seperti dulu. Selamat Hari Raya, maaf zahir dan batin."
+        },
+        {
+            "id": 3,
+            "nada": "angry",
+            "ucapan": "Sudah berapa kali saya hendak mengulangi? Selamat Hari Raya Aidilfitri! Maaf Zahir dan Batin! Kenapa masih ramai yang degil dan tak faham-faham lagi? Balik kampunglah kalau dah boleh! Takkan setahun sekali pun nak jadi lembab sangat! Ini musim perayaan, jangan lah buat orang lain yang hendak balik kampung atau meriahkan suasana terpaksa terhenti di tengah jalan! Semoga tahun ini anda semua dapat mengambil iktibar daripada kesilapan dan memperbetulkan keadaan untuk perayaan yang akan datang. Selamat Hari Raya Aidilfitri, dengan harapan agar dapat memperbaiki diri dan tingkah laku."
+        },
+        {
+            "id": 4,
+            "nada": "boring",
+            "ucapan": "Selamat Hari Raya Aidilfitri. Maaf Zahir dan Batin. Terima kasih kerana menjayakan suasana raya ini dengan kehadiran anda. Semoga semua dapat menikmati hidangan yang disediakan dengan bersederhana dan tidak berlebihan. Saya juga ingin mengingatkan agar semua mengambil langkah berjaga-jaga ketika berkendara semasa balik kampung. Selamat menyambut hari raya dan selamat pulang ke kampung halaman."
+        },
+        {
+            "id": 5,
+            "nada": "happy",
+            "ucapan": "Mari kita bergembira dalam suasana Hari Raya ini! Selamat Hari Raya Aidilfitri! Semoga kegembiraan dan kebahagiaan selalu mengiringi hari-hari anda. Biarlah kegembiraan raya ini membawa sinar kebahagiaan dalam hidup kita semua. Terima kasih kerana telah membuat perayaan ini lebih bermakna dengan kehadiran anda. Jangan lupa untuk saling memaafkan dan menghormati sesama kita. Selamat Hari Raya dan Maaf Zahir dan Batin!"
+        },
+        {
+            "id": 6,
+            "nada": "sad",
+            "ucapan": "Di saat-saat seperti ini, hati ini berasa sedih kerana tidak dapat berada bersama-sama dengan keluarga dan sahabat-sahabat terdekat untuk menyambut Hari Raya Aidilfitri. Namun begitu, saya tetap ingin mengucapkan Selamat Hari Raya Aidilfitri kepada semua yang menyambutnya. Saya berdoa agar semua yang terpisah dengan keluarga dapat merasakan kehangatan perayaan meskipun jauh di mata. Maaf Zahir dan Batin sekiranya terdapat kesilapan dan kesalahan yang telah dilakukan. Semoga Allah SWT sentiasa merahmati kita semua dan memperkenankan doa kita pada Ramadan kali ini."
+        },
+        {
+            "id": 7,
+            "nada": "angry",
+            "ucapan": "Sudah berapa kali saya perlu mengingatkan untuk menjaga keselamatan ketika memandu semasa musim perayaan ini? Kenapa masih ada yang tidak mengindahkan amaran dan mengabaikan keselamatan diri sendiri dan orang lain? Sudah cukup dengan tabiat yang tidak bertanggungjawab dan menggangu keselesaan orang lain di kala perayaan ini. Maaf, tetapi saya perlu memperingatkan bahawa tindakan yang tidak bertanggungjawab ini boleh membawa implikasi yang besar. Jangan menunjukkan sikap tidak bertanggungjawab di atas jalan raya. Mari kita berpandu dengan teliti dan bertanggungjawab agar perayaan ini dapat disambut dengan selamat dan bahagia. Selamat Hari Raya, dan ingatlah bahawa tanggungjawab adalah milik kita semua."
+        },
+        {
+            "id": 8,
+            "nada": "boring",
+            "ucapan": "Saya ingin mengucapkan Selamat Hari Raya Aidilfitri kepada semua yang merayakannya. Mari kita bersama-sama memeriahkan suasana perayaan ini dengan bersama-sama berkumpul bersama keluarga dan sahabat-sahabat terdekat. Saya berharap agar kita dapat menikmati hidangan yang sedap dan memuaskan serta menjalankan segala aktiviti dengan sempurna. Maaf Zahir dan Batin sekiranya terdapat kesalahan yang telah dilakukan. Selamat Hari Raya dan semoga perayaan ini membawa kebahagiaan dan keceriaan dalam hidup kita semua."
+        },
+        {
+            "id": 9,
+            "nada": "happy",
+            "ucapan": "Marilah kita bersama-sama memeriahkan suasana Hari Raya Aidilfitri ini dengan penuh kegembiraan dan keceriaan! Saya ingin mengucapkan Selamat Hari Raya Aidilfitri kepada semua yang merayakannya. Semoga perayaan kali ini membawa kebahagiaan dan keceriaan yang sebenar-benarnya dalam hidup kita semua. Bersama-sama kita nikmati hidangan yang sedap dan bersuka ria dengan keluarga dan sahabat-sahabat terdekat. Jangan lupa, mari kita selalu mempererat tali persaudaraan di antara satu sama lain. Selamat Hari Raya dan maafkan saya sekiranya ada tersalah kata atau terkasar bahasa."
+        },
+        {
+            "id": 10,
+            "nada": "santai",
+            "ucapan": "Marilah kita bersama-sama memeriahkan suasana Hari Raya Aidilfitri ini dengan penuh kegembiraan dan keceriaan! Saya ingin mengucapkan Selamat Hari Raya Aidilfitri kepada semua yang merayakannya. Semoga perayaan kali ini membawa kebahagiaan dan keceriaan yang sebenar-benarnya dalam hidup kita semua. Bersama-sama kita nikmati hidangan yang sedap dan bersuka ria dengan keluarga dan sahabat-sahabat terdekat. Jangan lupa, mari kita selalu mempererat tali persaudaraan di antara satu sama lain. Selamat Hari Raya dan maafkan saya sekiranya ada tersalah kata atau terkasar bahasa."
+        },
+        {
+            "id": 11,
+            "nada": "santai",
+            "ucapan": "Marilah kita bersama-sama memeriahkan suasana Hari Raya Aidilfitri ini dengan penuh kegembiraan dan keceriaan! Saya ingin mengucapkan Selamat Hari Raya Aidilfitri kepada semua yang merayakannya. Semoga perayaan kali ini membawa kebahagiaan dan keceriaan yang sebenar-benarnya dalam hidup kita semua. Bersama-sama kita nikmati hidangan yang sedap dan bersuka ria dengan keluarga dan sahabat-sahabat terdekat. Jangan lupa, mari kita selalu mempererat tali persaudaraan di antara satu sama lain. Selamat Hari Raya dan maafkan saya sekiranya ada tersalah kata atau terkasar bahasa."
+        },
+        {
+            "id": 12,
+            "nada": "santai",
+            "ucapan": "Marilah kita bersama-sama memeriahkan suasana Hari Raya Aidilfitri ini dengan penuh kegembiraan dan keceriaan! Saya ingin mengucapkan Selamat Hari Raya Aidilfitri kepada semua yang merayakannya. Semoga perayaan kali ini membawa kebahagiaan dan keceriaan yang sebenar-benarnya dalam hidup kita semua. Bersama-sama kita nikmati hidangan yang sedap dan bersuka ria dengan keluarga dan sahabat-sahabat terdekat. Jangan lupa, mari kita selalu mempererat tali persaudaraan di antara satu sama lain. Selamat Hari Raya dan maafkan saya sekiranya ada tersalah kata atau terkasar bahasa."
+        }
+    ]
+}
