@@ -117,6 +117,27 @@ const Dropdown: FC<DropdownProps> = ({ generateUcapan }) => {
                   </button>
                 )}
               </Menu.Item>
+              <Menu.Item>
+                {({ active }) => (
+                  <button
+                    onClick={() => handleSubmitNada("santai")}
+                    className={`${
+                      active ? "bg-violet-500 text-white" : "text-gray-900"
+                    } group flex w-full items-center rounded-md px-2 py-2 text-sm gap-2`}
+                  >
+                    {active ? (
+                      <span role="img" aria-label="sad">
+                        🤓
+                      </span>
+                    ) : (
+                      <span role="img" aria-label="sad">
+                        😎
+                      </span>
+                    )}
+                    Boring
+                  </button>
+                )}
+              </Menu.Item>
             </div>
           </Menu.Items>
         </Transition>
